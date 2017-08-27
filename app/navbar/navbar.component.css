@@ -1,0 +1,16 @@
+/* .collapse {
+    float: right;
+    z-index: 999;
+    background-color: #fff;
+    color: #000;
+} */
+
+#navbar i {
+    font-size: 150%;
+    font-weight: 200;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
